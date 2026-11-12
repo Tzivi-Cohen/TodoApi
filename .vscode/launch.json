@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "TodoApi (http)",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}/TodoApi.csproj",
+      "launchConfigurationId": "TargetFramework=;http"
+    }
+  ]
+}
